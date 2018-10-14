@@ -10,7 +10,7 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    public void convertCurrency (View view) {
+    public void convertCurrency (View view)  {
 
 
         Log.i("Info","button pressed");
